@@ -71,7 +71,7 @@ A **"Reset demo data"** button clears everything back to a clean slate (a real b
 | Dashboard — stats & flagged leaks |
 |---|
 | ![Dashboard overview](screenshots/dashboard-top.PNG) |
-| ![Flagged leaks feed](screenshots/dashboard-leaklist.png) |
+| ![Flagged leaks feed](screenshots/dashboard-leaklist.PNG) |
 
 | Leak detail |
 |---|
