@@ -7,6 +7,7 @@
 🔗 **Live demo:** [audit-sync.vercel.app](https://audit-sync.vercel.app) · **API:** [auditsync.onrender.com](https://auditsync.onrender.com) 
 
 *(Frontend on Vercel, backend on Render, database on Neon — the API may take a few seconds on first request after idling. The demo is password-gated — message me and I'll send you the password.)*
+
 Note: The source code for auditsync is held in a private repository to protect proprietary multi-tenant isolation logic. This repository serves as a public breakdown of the system architecture, database schema, and case study.
 
 AuditSync reconciles transactions across your CRM, payment gateway, and billing system, flags what doesn't match, and uses Gemini to explain *why* in plain English — then alerts your finance team on Slack before the leak grows.
